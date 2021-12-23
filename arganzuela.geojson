@@ -1,13 +1,13 @@
 {
     "type": "FeatureCollection",
-    "features": [
-        {"type": "Feature",
-        "postalCode": [""],
+    "features": [{
+        "type": "Feature",
         "properties":{
-            "name": "Arganzuela"},
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
+            "name": "Arganzuela",
+            "postalCode": ["28005"]},
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
                     [
                         [-3.703413, 40.405096],
                         [-3.703165, 40.405041],

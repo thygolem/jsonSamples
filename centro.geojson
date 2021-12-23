@@ -1,13 +1,13 @@
 {
     "type": "FeatureCollection",
-    "features": [
-        {"type": "Feature",
-        "postalCode": ["28012", "28014", "28004"],
+    "features": [{
+        "type": "Feature",
         "properties":{
-            "name": "Centro"},
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
+            "name": "Centro",
+            "postalCode": ["28012", "28014", "28004"]},
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
                     [
                         [-3.712148, 40.430235],
                         [-3.71205, 40.430225],
