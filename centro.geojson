@@ -4,8 +4,9 @@
         "type": "Feature",
         "properties":{
             "name": "Centro",
-            "postalCode": ["28012", "28014", "28004"]},
-            "people": [],
+            "postalCode": ["28012", "28014", "28004"],
+            "people": []
+        },
         "geometry": {
             "type": "Polygon",
             "coordinates": [

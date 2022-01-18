@@ -4,8 +4,9 @@
         "type": "Feature",
         "properties":{
             "name": "Arganzuela",
-            "postalCode": ["28005"]},
-            "people": [],
+            "postalCode": ["28005"],
+            "people": []
+        },
         "geometry": {
             "type": "Polygon",
             "coordinates": [
